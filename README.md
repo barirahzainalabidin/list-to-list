@@ -35,6 +35,13 @@ LLM - https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 
 LLM Image - https://colab.research.google.com/github/HandsOnLLM/Hands-On-Large-Language-Models/blob/main/chapter09/Chapter%209%20-%20Multimodal%20Large%20Language%20Models.ipynb#scrollTo=4XFEvSss0DQf
 
+Recommendation system - https://nvidia-merlin.github.io/Merlin/main/examples/getting-started-movielens/03-Training-with-PyTorch.html
+
+nvidia flare - https://nvflare.readthedocs.io/en/main/examples/hello_pt_job_api.html
+
+jetson ai - https://www.jetson-ai-lab.com/tutorial_jps.html
+
+
 ML - https://github.com/amueller/introduction_to_ml_with_python/tree/main
 
 postgrad - https://www.pg4e.com/lessons/week5
