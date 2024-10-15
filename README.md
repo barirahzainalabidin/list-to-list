@@ -48,3 +48,5 @@ ML - https://github.com/amueller/introduction_to_ml_with_python/tree/main
 
 postgrad - https://www.pg4e.com/lessons/week5
 
+image classifier - https://mediapipe-studio.webapps.google.com/demo/image_classifier
+
