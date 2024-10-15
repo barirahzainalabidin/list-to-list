@@ -41,7 +41,7 @@ nvidia flare - https://nvflare.readthedocs.io/en/main/examples/hello_pt_job_api.
 
 jetson ai - https://www.jetson-ai-lab.com/tutorial_jps.html
 
-
+Video Detection - https://zackakil.github.io/video-intelligence-api-visualiser/#Label%20Detection
 ML - https://github.com/amueller/introduction_to_ml_with_python/tree/main
 
 postgrad - https://www.pg4e.com/lessons/week5
